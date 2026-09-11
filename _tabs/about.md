@@ -21,6 +21,3 @@ CryptoHack, PortSwigger Web Security Academy, pwn.college, and HackTheBox, or
 on intentionally vulnerable practice targets in an isolated lab VM. No live or
 third-party systems are tested. Posts are sanitized to respect each platform's
 rules, so no live flags or prohibited solutions are published.
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
