@@ -6,8 +6,7 @@ order: 4
 
 I'm Peter Bode, a 4th year Computer Science student at Rutgers University.
 This site documents a semester-long Capture-the-Flag track completed as an
-Honors Contract for Computer Security (01:198:419) with Prof. Paul
-Krzyzanowski, Fall 2026.
+Honors Contract for Computer Security (01:198:419) Fall 2026.
 
 Each post pairs an **attacker walkthrough** (how a vulnerability was found and
 exploited) with a **defender's analysis** (root cause, vulnerability class and
