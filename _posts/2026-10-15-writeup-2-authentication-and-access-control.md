@@ -1,6 +1,6 @@
 ---
 title: "Writeup 2: Authentication and Access Control"
-date: 2026-10-16 10:00:00 -0400
+date: 2026-10-15 21:00:00 -0400
 categories: [CTF Writeups]
 tags: [authentication, access-control, hashcat, john, portswigger, burp]
 ---
